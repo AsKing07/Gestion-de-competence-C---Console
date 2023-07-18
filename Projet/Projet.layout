@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="fonctionsLecture.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21556" topLine="118" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="63" />
+			<Collapse line="126" />
+			<Collapse line="214" />
+			<Collapse line="307" />
+			<Collapse line="416" />
+		</Folding>
+	</File>
+	<File name="Menu.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="133" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1237" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="fonctionsEcriture.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="146" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menu.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8452" topLine="239" />
+		</Cursor>
+	</File>
+	<File name="fonctionsEcriture.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17130" topLine="199" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="134" />
+			<Collapse line="329" />
+		</Folding>
+	</File>
+	<File name="fonctionsLecture.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="194" topLine="3" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
