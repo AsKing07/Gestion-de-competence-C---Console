@@ -234,8 +234,8 @@ cout<<"\t\t\t\tVeuillez vous assurer de strictement respecter les accents si il 
                     system("cls");
                     cout<<"\t\t\t\t\t\t\t REMERCIEMENTS"<<endl;
                     cout<<"\t\t\t\t\t\t\t -------------"<<endl<<endl;
-                    cout<<"\t\t\t\tCe programme a ete realise par les etudiants de l'IFRI L2 2022-2023 du groupe 11 C++"<<endl;
-                    cout<<"\t\t\t\t\t\t\t Il s'agit de: \n \t\t\t\t\t\t\t1-BOTON Elfriede \n \t\t\t\t\t\t\t2-LALEYE Charlene \n \t\t\t\t\t\t\t3-SONON Charbel \n \t\t\t\t\t\t\t4-ZOGLOBOSSOU Beni \n \t\t\t\t\t\t\t5-AINAN Noel \n \t\t\t\t\t\t\t6-AMIDOU Anifath \n \t\t\t\t\t\t\t7-BABIO Ahmed \n \t\t\t\t\t\t\t8-DOUMATE Valery \n \t\t\t\t\t\t\t9-ADJOVI Primael \n \t\t\t\t\t\t\t10-CHEDEME Eunock \n \t\t\t\t\t\t\t11-SOSSOU Nelson"<<endl;
+                    cout<<"\t\t\t\tCe programme a ete realise par l'étudiant en 2eme année de licence  de l'IFRI de l'année scolaire 2022-2023"<<endl;
+                    cout<<"\t\t\t\t\t\t\t Il s'agit de:  \n \t\t\t\t\t\t\t3-SONON Charbel"<<endl;
                     cout<<"\t\t\t\t En Esperant qu'il puisse combler vos attentes *^____^* "<<endl;
                     cout<<"\n\t\t\t\tPour retourner au menu appuyer sur n'importe quel touche et pour quitter appuyez sur 0:";
                      cin>>i;
